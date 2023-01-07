@@ -6,4 +6,4 @@ Supervisor for Practical Project: ‪**Davide Pisani** (Professor of Phylogenomi
 
 Link to Supervisor: https://www.bristol.ac.uk/people/person/Davide-Pisani-27ef6f2a-19b3-4474-b71c-e61f2c8585a4/
 
-Partner: Luca Lalsie (email: ie20728@bristol.ac.uk) 
+Practical Project Partner: Luca Lalsie (email: ie20728@bristol.ac.uk) 
